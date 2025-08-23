@@ -18,7 +18,7 @@ Salti es un pequeño juego 2D creado con Python y Pygame donde controlás a un r
 ## 🚀 Cómo ejecutar
 
 1. Cloná el repositorio o descargalo como `.zip`:
-   git clone https://github.com/TU_USUARIO/salti.git
+   git clone https://github.com/MatoGB/salti.git
 
 2. Instala las dependencias (solo necesitas pygame):
    pip install pygame
