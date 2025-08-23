@@ -24,5 +24,5 @@ Salti es un pequeño juego 2D creado con Python y Pygame donde controlás a un r
    pip install pygame
 
 3. Ejecutá el juego:
-   python main.py
+   python main.py (o en algunos casos: py main.py)
 Requiere Python 3.7 o superior.
